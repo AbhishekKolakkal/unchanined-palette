@@ -35,3 +35,12 @@ Unchained Palette is a React application that allows users to create and manage 
 6. If Palette dimension and boxes dimensions/dragging are unchanged on adding it will automatically arrange the boxes using a simple palettizer pattern. This pattern is defined in the App.js
 7. Validation of collision of boxes can be seen while dragging.
 8. Scale/zoom and Snapping/gridding is not implemented in this version.
+
+## Screeshots of the App
+
+![plot](./workingExamplesImage/1.png)
+![plot](./workingExamplesImage/2.png)
+![plot](./workingExamplesImage/3.png)
+![plot](./workingExamplesImage/4.png)
+![plot](./workingExamplesImage/5.png)
+![plot](./workingExamplesImage/6.png)
